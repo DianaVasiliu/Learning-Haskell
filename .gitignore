@@ -1,0 +1,10 @@
+*.cabal
+*.yaml
+*.lock
+Setup.hs
+LICENSE
+ChangeLog.md
+test
+app
+.stack-work
+*/.gitignore
