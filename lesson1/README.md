@@ -1,4 +1,4 @@
-# Lesson 1
+# Lesson 1 - Haskell Basics
 
 To get acquainted with the GHC environment, first we will test a few basic commands in the terminal. So, open a terminal and run `ghci`. This will run the interpreter and show `Prelude>` in the terminal. [Prelude](https://hackage.haskell.org/package/base-4.12.0.0/docs/Prelude.html) is the basic Haskell library.
 
