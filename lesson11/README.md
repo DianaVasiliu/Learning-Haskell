@@ -1,4 +1,4 @@
-# Lesson 11 - Foldable, Functor,
+# Lesson 11 - Foldable, Functor
 
 ```haskell
 import Data.Monoid
