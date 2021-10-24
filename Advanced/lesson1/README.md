@@ -24,7 +24,7 @@ will print `[3, 8]`.
 
 ### Exercise
 
-Define the evaluation functions for the `Prog`, Stmt`and`Expr` expressions.
+Define the evaluation functions for the `Prog`, `Stmt` and `Expr` expressions.
 
 ```haskell
 prog :: Prog -> DomProg
