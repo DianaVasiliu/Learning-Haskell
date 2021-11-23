@@ -48,7 +48,7 @@ true.
 ## Variables
 
 -   sequences of letters, numbers and _, starting with a capital letter or _
--   special variable: `_` is a **anonymous variable**
+-   special variable: `_` is an **anonymous variable**
 
 -   two appearances of `_` symbol are different variables. It is used when we don't want detailed information about the variable.
 
@@ -76,7 +76,7 @@ A compond term has:
 
 # Example 1 - `kb1`
 
-a Prolog program defines a knowledge base.
+A Prolog program defines a knowledge base.
 
 Example:
 
@@ -114,9 +114,9 @@ This program contains 3 predicates: `stark/1`, `lannister/1`, `dislike/2`.
 
 -   Predicates with the same name, but with different arities, are different predicates.
 
--   We write `foo/n` to indicate that a `foo` predicate has the aridity `n`.
+-   We write `foo/n` to indicate that a `foo` predicate has the arity `n`.
 
--   Predicates can have arity 0 (no arguments); are predefined in language (`true`, `false`).
+-   Predicates can have arity 0 (no arguments); they are predefined in language (`true`, `false`).
 
 # Example 2 - `kb2`
 
