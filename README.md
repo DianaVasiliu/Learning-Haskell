@@ -10,8 +10,15 @@ To start learning Haskell, there is some software that must be installed first.
 
 ## Learning Resources
 
+Haskell:
+
 -   [Hoogle](https://hoogle.haskell.org/)
 -   [Learn You A Haskell for Great Good](http://learnyouahaskell.com/chapters)
 -   [Haskell Book](https://haskellbook.com/)
 -   [WikiBooks](https://en.wikibooks.org/wiki/Haskell)
 -   [FP Complete Haskell](https://www.fpcomplete.com/haskell/learn/)
+
+Prolog:
+
+-   [Learn Prolog](http://www.let.rug.nl/bos/lpn//)
+-   [Prolog programming: a do-it-yourself course for beginners](https://cs.union.edu/~striegnk/courses/esslli04prolog/)

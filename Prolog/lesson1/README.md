@@ -297,8 +297,3 @@ Example:
 not_parent(X, Y) :- not(parent_of(X, Y)).
 not_parent(X, Y) :- \+ parent_of(X, Y).
 ```
-
-# Sources
-
--   [Learn Prolog](http://www.let.rug.nl/bos/lpn//)
--   [Prolog programming: a do-it-yourself course for beginners](https://cs.union.edu/~striegnk/courses/esslli04prolog/)
